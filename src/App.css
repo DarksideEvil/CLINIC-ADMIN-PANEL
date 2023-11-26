@@ -1,0 +1,114 @@
+.row
+{
+  margin-right: 0;
+}
+
+.radios_place
+{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+.iLOdkH
+{
+  align-self: center;
+}
+
+.chista
+{
+    position: fixed;
+    z-index: 10;
+}
+
+.col-md-2
+{
+  background-color: transparent;
+}
+
+.rs-sidenav-subtle
+{
+  background-color: #fff !important;
+}
+
+.recharts-legend-wrapper
+{
+  width: 100% !important;
+}
+
+.work_place
+{
+  padding: 30px 0;
+}
+
+.adder_place
+{
+  text-align: end;
+  padding-right: 250px;
+  padding-top: 20px;
+}
+
+.header_txt_place
+{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 991.98px) {
+  .chart_body
+{
+    display: flex;
+}
+
+.chart_body_left
+{
+    padding-right: 50px;
+}
+
+.chart_body_right
+{
+    text-align: center;
+}
+
+.date_place
+{
+    padding-bottom: 30px;
+}
+
+.report_title_place
+{
+    padding-bottom: 50px;
+}
+
+.submitter
+{
+    margin-left: 10px;
+}
+}
+
+@media (max-width: 767.98px) {
+  .recharts-wrapper
+  {
+      width: 350px !important;
+  }
+
+  .chart_body
+  {
+      text-align: center;
+  }
+
+  .submitter
+{
+    margin-left: 10px;
+}
+
+.date_place
+{
+    padding-bottom: 30px;
+}
+
+.report_title_place
+{
+    padding-bottom: 50px;
+}
+}
